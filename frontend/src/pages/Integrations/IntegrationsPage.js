@@ -18,8 +18,7 @@ import {
   MessageSquare,
   Shield,
   Activity,
-  Clock,
-  Users
+  Clock
 } from 'lucide-react';
 import axios from 'axios';
 import toast from 'react-hot-toast';
